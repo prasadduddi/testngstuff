@@ -9,7 +9,7 @@ import org.testng.annotations.*;
 
 public class TestNGDemo {
     public String baseUrl = "http://www.google.com/xhtml";
-    String driverPath = "C:\\Dev\\SeleniumDrivers\\chromedriver.exe";
+    String driverPath = "chromedriver.exe";
     public WebDriver driver ; 
      
   @Test
